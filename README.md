@@ -1,3 +1,13 @@
+## TODO
+
+components/_cards.scss
+layout/_grid.scss
+
+base/_css_reset.scss
+
+Added mixins for commonly used css properties to abstracts/_mixins.scss.
+
+
 # Sass Boilerplate
 
 This is a sample project using the [7-1 architecture pattern](https://sass-guidelin.es/#architecture) and sticking to [Sass Guidelines](https://sass-guidelin.es) writing conventions.
