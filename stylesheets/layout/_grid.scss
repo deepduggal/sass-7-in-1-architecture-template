@@ -1,0 +1,16 @@
+// A grid container
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-gap: 2.25rem;
+}
+
+// A grid item
+.grid__item {
+  grid-column: span 6;
+
+  // A full-width grid item
+  &--full {
+    grid-column: 1 / -1;
+  }
+}
