@@ -1,12 +1,4 @@
-## TODO
-
-components/_cards.scss
-layout/_grid.scss
-
-base/_css_reset.scss
-
-Added mixins for commonly used css properties to abstracts/_mixins.scss.
-
+Modified to meet my requirements.
 
 # Sass Boilerplate
 
